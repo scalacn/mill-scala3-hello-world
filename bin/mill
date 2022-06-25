@@ -2,8 +2,8 @@
 
 # See https://gitee.com/darcyshen/mill-on-gitee
 
-DEFAULT_MILL_VERSION=0.9.9
-MILL_DOWNLOAD_URL="https://gitee.com/darcyshen/mill-on-gitee/attach_files/778982/download/0.9.9-assembly"
+DEFAULT_MILL_VERSION=0.10.4
+MILL_DOWNLOAD_URL="https://gitee.com/XmacsLabs/mogan/attach_files/1107395/download"
 
 set -e
 
